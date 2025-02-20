@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3208f79.css",
+    "main.js": "/static/js/main.be04ee48.js",
+    "static/media/OpenAISans-Semibold.63de4196.ttf": "/static/media/OpenAISans-Semibold.63de4196.48784cbe2073bb2f9d16.ttf",
+    "static/media/OpenAISans-Bold.44b309c3.ttf": "/static/media/OpenAISans-Bold.44b309c3.349ad8d93359a40cbdaa.ttf",
+    "static/media/OpenAISans-Medium.75b57261.ttf": "/static/media/OpenAISans-Medium.75b57261.9779f948aedc96acb220.ttf",
+    "static/media/OpenAISans-RegularItalic.be54cbd4.ttf": "/static/media/OpenAISans-RegularItalic.be54cbd4.e6c83b92bef9001b0bc3.ttf",
+    "static/media/OpenAISans-Regular.8e5ce1c0.ttf": "/static/media/OpenAISans-Regular.8e5ce1c0.5bd14049ea896249cf57.ttf",
+    "static/media/OpenAISans-Light.bc94c16a.ttf": "/static/media/OpenAISans-Light.bc94c16a.4d2e00bfe4af50b38270.ttf",
+    "index.html": "/index.html",
+    "main.c3208f79.css.map": "/static/css/main.c3208f79.css.map",
+    "main.be04ee48.js.map": "/static/js/main.be04ee48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3208f79.css",
+    "static/js/main.be04ee48.js"
+  ]
+}
